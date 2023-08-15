@@ -18,4 +18,4 @@ http://instinpaint.abyildirim.com/
 https://arxiv.org/abs/2304.03246
 
 ## Output
-
+![image](https://github.com/camenduru/inst-inpaint-colab/assets/54370274/2bf98ab9-7c51-40a1-91c7-c0864d579824)
